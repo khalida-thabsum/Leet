@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KT241206/Leet/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/KT241206/Leet/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/KT241206/Leet/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KT241206/Leet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/KT241206/Leet/tree/master/1486-xor-operation-in-an-array) |
@@ -79,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KT241206/Leet/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/KT241206/Leet/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KT241206/Leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KT241206/Leet/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/KT241206/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/KT241206/Leet/tree/master/0657-robot-return-to-origin) |
