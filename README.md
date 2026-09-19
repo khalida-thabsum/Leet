@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KT241206/Leet/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/KT241206/Leet/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KT241206/Leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0485-max-consecutive-ones](https://github.com/KT241206/Leet/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KT241206/Leet/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/KT241206/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/KT241206/Leet/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/KT241206/Leet/tree/master/0709-to-lower-case) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/KT241206/Leet/tree/master/1672-richest-customer-wealth) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KT241206/Leet/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
